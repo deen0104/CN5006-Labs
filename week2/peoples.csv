@@ -1,0 +1,11 @@
+first Name,last name,gender,age,email,education,marital status,salary
+John,Doe,Male,28,john.doe@example.com,Bachelor,Single,55000
+Jane,Smith,Female,32,jane.smith@example.com,Master,Married,67000
+Alice,Johnson,Female,24,alice.johnson@example.com,Bachelor,Single,48000
+Bob,Brown,Male,40,bob.brown@example.com,PhD,Married,75000
+Charlie,Davis,Male,36,charlie.davis@example.com,Master,Single,62000
+Eve,Wilson,Female,29,eve.wilson@example.com,Bachelor,Single,52000
+Grace,Taylor,Female,45,grace.taylor@example.com,PhD,Married,88000
+Mike,Anderson,Male,31,mike.anderson@example.com,Bachelor,Married,60000
+Nina,Thomas,Female,27,nina.thomas@example.com,Master,Single,57000
+Oscar,Martinez,Male,50,oscar.martinez@example.com,PhD,Married,94000
